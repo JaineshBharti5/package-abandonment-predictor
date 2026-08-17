@@ -93,3 +93,7 @@ streamlit run dashboard.py
 
 - Extend data collection to PyPI and crates.io for a cross-ecosystem view
 - Move the risk-scoring pipeline to a scheduled batch job so scores stay current
+
+![Dashboard search view](photos/Data1.png)
+   ![Risk distribution](photos/Data2.png)
+   ![Top risk packages](photos/Data3.png)
