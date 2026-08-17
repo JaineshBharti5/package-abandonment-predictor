@@ -1,0 +1,6 @@
+venv/
+.env
+github_token.txt
+__pycache__/
+*.pyc
+data/
